@@ -1,0 +1,21 @@
+ANOMALY DETECTION SUMMARY
+===================================
+
+Total rows analyzed: 51000
+Rows flagged at threshold 3.0: 5258
+
+FLAGS BY RULE
+z_flag_3_0: 10
+iqr_flag: 3227
+group_flag: 10
+velocity_flag: 10
+near_limit_flag: 100
+round_amount_flag: 29
+late_night_flag: 2157
+first_transaction_flag: 105
+
+THRESHOLD COMPARISON
+ z_threshold  flagged_rows  true_positives  false_positives  false_negatives  precision_percent  recall_percent
+         2.5          5258             788             4470             6534              14.99           10.76
+         3.0          5258             788             4470             6534              14.99           10.76
+         4.0          5258             788             4470             6534              14.99           10.76

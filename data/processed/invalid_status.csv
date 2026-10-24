@@ -1,0 +1,101 @@
+transaction_id,customer_id,transaction_date,amount,currency,payment_method,status,merchant_category,country,email
+TXN000115,CUST05057,2025-05-09 19:45:54,124.0,INR,Debit Card,compleeted,Electronics,India,ztalwar@example.org
+TXN000349,CUST01808,2025-04-14 05:25:54,783.04,INR,UPI,compleeted,Electronics,USA,nattdominic@example.com
+TXN001243,CUST09633,2025-05-28 03:38:02,2565.72,INR,Net Banking,compleeted,Healthcare,India,patelojasvi@example.com
+TXN001600,,2025-05-16 12:36:49,273.98,EUR,Credit Card,compleeted,Healthcare,India,tshankar@example.net
+TXN001941,CUST01644,2025-04-12 09:16:50,961.7,INR,Credit Card,compleeted,Food,India,eshanachakraborty@example.net
+TXN002737,CUST05743,2025-07-02 05:00:55,191.53,INR,Wallet,compleeted,Electronics,India,omangal@example.org
+TXN003779,CUST09854,2025-03-30 07:07:00,829.07,INR,Credit Card,compleeted,Healthcare,India,
+TXN004354,CUST04135,2025-01-22 13:14:16,723.98,INR,Credit Card,compleeted,Food,India,keya20@example.net
+TXN004361,CUST00076,2025-09-14 02:45:19,,INR,Net Banking,compleeted,Travel,India,jeevika64@example.org
+TXN004378,CUST02635,2025-04-06 17:22:30,130.76,INR,UPI,compleeted,Electronics,India,zayanshenoy@example.com
+TXN004435,CUST05845,2025-01-10 01:03:33,340.26,INR,Debit Card,compleeted,Retail,India,raksha08@example.org
+TXN004438,CUST09475,2025-10-07 08:48:34,584.87,INR,Wallet,compleeted,Food,India,lchander@example.org
+TXN005410,CUST07096,2025-04-28 03:05:19,612.28,INR,Wallet,compleeted,Retail,India,dhruvwable@example.net
+TXN005817,CUST04076,2025-04-08 05:13:23,145.88,INR,Debit Card,compleeted,Electronics,India,manya53@example.net
+TXN007491,CUST01118,2025-07-05 12:47:54,,USD,Debit Card,compleeted,Travel,UK,lvenkataraman@example.com
+TXN008201,CUST04399,2025-06-21 09:32:16,683.39,INR,Debit Card,compleeted,Electronics,India,arattan@example.org
+TXN009007,CUST07873,2025-02-22 18:11:46,799.72,INR,UPI,compleeted,Travel,Canada,pathakcharan@example.com
+TXN009137,CUST06337,2025-12-16 12:07:24,622.84,INR,Wallet,compleeted,Food,India,sundaramtanvi@example.org
+TXN009236,CUST05494,2025-03-09 21:07:05,643.85,USD,Credit Card,compleeted,Electronics,India,tristan60@example.net
+TXN009299,CUST08488,2025-09-24 10:54:23,216.23,EUR,UPI,compleeted,Food,India,rattansanaya@example.net
+TXN009639,CUST09032,2025-01-27 00:17:41,348.06,INR,UPI,compleeted,Travel,India,bachittarmajumdar@example.org
+TXN009731,CUST09105,2025-09-21 07:17:15,107.79,INR,Net Banking,compleeted,Food,India,kmanda@example.org
+TXN009880,CUST01879,2025-04-02 22:48:12,265.7,INR,Debit Card,compleeted,Electronics,India,ekbalrandhawa@example.net
+TXN011310,CUST02888,2025-08-25 20:48:15,516.57,EUR,UPI,compleeted,Retail,USA,aradhanachoudhury@example.net
+TXN012541,CUST08145,2025-06-11 16:30:02,255.2,INR,Credit Card,compleeted,Travel,India,kamdaryashodhara@example.com
+TXN012681,CUST05272,2025-10-05 10:55:45,1057.27,INR,Credit Card,compleeted,Travel,India,urvashinagy@example.org
+TXN013909,CUST04285,2025-05-15 19:34:47,246.2,INR,Debit Card,compleeted,Electronics,India,adyashroff@example.com
+TXN013942,CUST07737,2025-09-25 19:58:54,1132.35,INR,Net Banking,compleeted,Retail,India,mangaldaksh@example.org
+TXN013978,CUST00052,2025-08-27 18:24:39,411.65,INR,Debit Card,compleeted,Travel,India,hamsinioza@example.net
+TXN015109,CUST06356,2025-08-20 17:54:16,685.52,INR,Debit Card,compleeted,Travel,India,tdara@example.com
+TXN015264,,2025-08-04 21:22:19,348.74,INR,Net Banking,compleeted,Electronics,India,rishi26@example.net
+TXN016462,CUST02309,2025-03-06 12:46:14,1090.37,USD,Credit Card,compleeted,Travel,India,bhalder@example.com
+TXN017732,CUST04730,2025-01-28 16:32:13,2041.19,INR,Debit Card,compleeted,Food,India,
+TXN017844,CUST07473,2025-11-16 16:59:11,560.18,INR,Credit Card,compleeted,Travel,India,
+TXN017977,CUST00708,2025-10-15 15:51:30,616.59,INR,UPI,compleeted,Food,India,butalachatresh@example.net
+TXN018953,CUST07204,2025-10-12 05:56:48,165.6,INR,UPI,compleeted,Travel,India,vohraom@example.net
+TXN019107,CUST00295,2025-06-03 03:20:28,1314.77,GBP,Debit Card,compleeted,Travel,India,ishwarrau@example.net
+TXN019430,CUST00018,2025-02-06 07:11:32,120.8,GBP,Wallet,compleeted,Electronics,India,msathe@example.net
+TXN020173,CUST05467,2025-11-04 19:15:12,466.72,INR,Credit Card,compleeted,Travel,USA,bbarad@example.org
+TXN020557,CUST04293,2025-12-04 11:28:42,708.82,INR,UPI,compleeted,Retail,India,xiti46@example.net
+TXN020560,CUST09839,2025-07-29 13:29:44,787.7,USD,Debit Card,compleeted,Retail,India,rudra07@example.com
+TXN020787,CUST04172,2025-05-04 10:45:19,654.32,INR,Wallet,compleeted,Travel,India,hayreanthony@example.com
+TXN020879,CUST09478,2025-05-08 14:56:55,845.0,INR,Net Banking,compleeted,Food,India,msen@example.com
+TXN021264,CUST02981,2025-12-10 08:07:50,491.33,INR,Net Banking,compleeted,Electronics,USA,gauravtalwar@example.com
+TXN021479,CUST06651,2025-01-30 22:39:38,973.58,INR,Debit Card,compleeted,Electronics,India,dsarna@example.net
+TXN021490,CUST07729,2025-01-26 19:12:03,1156.31,INR,UPI,compleeted,Food,India,lviswanathan@example.com
+TXN021973,CUST03322,2025-11-12 13:14:29,74.65,INR,Wallet,compleeted,Travel,India,utkarsh72@example.com
+TXN022083,CUST02967,2025-06-12 17:27:03,612.03,INR,Wallet,compleeted,Retail,India,sakshamdeep@example.com
+TXN022879,CUST08826,2025-12-19 06:55:27,1390.77,INR,Net Banking,compleeted,Food,India,tanveerpant@example.net
+TXN023136,CUST07334,2025-06-12 08:41:54,636.51,INR,Wallet,compleeted,Retail,India,nirja11@example.org
+TXN023434,,2025-08-07 15:09:26,132.96,EUR,Credit Card,compleeted,Healthcare,India,shivani49@example.com
+TXN024191,CUST02055,2025-09-24 05:33:25,648.29,USD,UPI,compleeted,Electronics,India,onveer65@example.net
+TXN024210,CUST06089,2025-09-12 21:49:05,394.74,USD,Credit Card,compleeted,Food,India,qasim58@example.com
+TXN024919,CUST06022,2025-06-23 20:04:11,551.31,INR,Net Banking,compleeted,Food,USA,obhatt@example.net
+TXN025109,CUST04688,2025-07-03 18:43:36,2400.66,INR,Debit Card,compleeted,Healthcare,Australia,priyadas@example.net
+TXN025122,CUST02690,2025-02-04 20:36:31,269.97,EUR,Credit Card,compleeted,Electronics,India,jaggidarika@example.net
+TXN025636,CUST08457,2025-02-20 01:58:35,138.33,INR,UPI,compleeted,Healthcare,India,ektanagi@example.com
+TXN025859,CUST06105,2025-06-22 00:40:00,1042.19,INR,Net Banking,compleeted,Food,India,ojasvi88@example.com
+TXN025875,CUST03519,2025-03-31 02:54:53,645.39,INR,UPI,compleeted,Travel,India,isaiah82@example.org
+TXN025959,CUST01188,2025-04-21 19:45:39,297.17,INR,UPI,compleeted,Travel,India,tanvichokshi@example.org
+TXN026080,CUST09897,2025-10-15 15:38:23,1153.16,INR,Debit Card,compleeted,Food,India,umang57@example.org
+TXN026908,CUST05347,2025-12-10 17:00:14,986.68,GBP,Credit Card,compleeted,Electronics,India,
+TXN026957,CUST05198,2025-12-24 07:31:13,146.2,INR,Credit Card,compleeted,Retail,UK,hmerchant@example.net
+TXN027216,CUST09691,2025-01-24 17:22:43,1737.53,INR,UPI,compleeted,Electronics,India,wseshadri@example.com
+TXN027377,CUST03246,2025-04-15 00:21:45,388.01,INR,Net Banking,compleeted,Healthcare,India,aryankothari@example.org
+TXN028144,CUST06903,2025-05-29 15:55:07,257.0,INR,Debit Card,compleeted,Food,USA,manderyutika@example.net
+TXN028321,CUST01480,2025-01-19 01:17:25,566.67,GBP,Wallet,compleeted,Retail,USA,morevictor@example.net
+TXN029635,CUST01124,2025-12-16 02:30:10,890.54,INR,Wallet,compleeted,Food,India,uthakur@example.net
+TXN029906,CUST04570,2025-09-29 11:58:06,399.44,INR,UPI,compleeted,Travel,India,smallick@example.net
+TXN030282,CUST05606,2025-11-09 06:32:51,1196.18,INR,Credit Card,compleeted,Food,India,modyzayyan@example.org
+TXN030844,CUST02001,2025-09-11 14:36:45,325.35,INR,Credit Card,compleeted,Electronics,India,ijaya33@example.org
+TXN031239,CUST08756,2025-10-16 05:59:51,485.6,USD,Credit Card,compleeted,Travel,USA,yutikarai@example.org
+TXN031447,CUST09432,2025-04-05 08:26:55,253.15,GBP,Wallet,compleeted,Electronics,India,yogiupadhriti@example.net
+TXN031819,CUST04424,2025-01-16 06:37:27,869.62,INR,Credit Card,compleeted,Healthcare,India,geetika50@example.net
+TXN031881,CUST07179,2025-04-25 16:29:51,608.41,INR,Wallet,compleeted,Electronics,USA,gaurikapau@example.net
+TXN032145,CUST02183,2025-03-09 07:33:08,541.58,INR,Net Banking,compleeted,Retail,India,tanayzacharia@example.org
+TXN032376,CUST07981,2025-10-26 09:51:02,166.37,INR,Wallet,compleeted,Food,India,chandresh04@example.net
+TXN033395,CUST05919,2025-01-31 10:01:57,-3125.509289851487,INR,Credit Card,compleeted,Healthcare,USA,advik69@example.net
+TXN034330,CUST07178,2025-03-08 17:02:33,252.21,INR,UPI,compleeted,Retail,India,usandal@example.com
+TXN034873,CUST04680,2025-06-01 06:07:53,334.35,USD,Credit Card,compleeted,Retail,UK,
+TXN036700,CUST03240,2025-03-10 17:46:29,176.16,INR,Wallet,compleeted,Retail,India,gkunda@example.net
+TXN037031,CUST08220,2025-03-21 13:56:01,1676.46,INR,UPI,compleeted,Electronics,India,jackson48@example.net
+TXN038390,,2025-10-06 13:02:02,407.2,USD,Debit Card,compleeted,Healthcare,India,ssheth@example.org
+TXN038495,CUST00932,2025-12-27 07:45:34,121.57,INR,Debit Card,compleeted,Food,Australia,fdoctor@example.net
+TXN039090,CUST01682,2025-05-13 08:32:38,650.56,INR,Wallet,compleeted,Travel,India,sabharwalabeer@example.org
+TXN041005,CUST02643,2025-01-04 02:51:02,513.38,EUR,Debit Card,compleeted,Healthcare,India,chakrabortydipta@example.net
+TXN041601,CUST02408,2025-12-22 11:35:02,179.82,INR,Debit Card,compleeted,Travel,India,saanvirai@example.com
+TXN042417,CUST04959,2025-06-01 15:09:14,194.51,INR,Net Banking,compleeted,Food,India,chaddamyanti@example.org
+TXN042952,CUST01436,2025-06-11 09:31:23,1262.5,INR,Debit Card,compleeted,Travel,USA,qmurty@example.net
+TXN043920,CUST07212,2025-10-29 05:01:46,454.47,INR,Credit Card,compleeted,Travel,India,ckala@example.net
+TXN044197,CUST00866,2025-11-03 04:33:24,494.76,INR,Credit Card,compleeted,Electronics,India,lalltanveer@example.com
+TXN044879,CUST08637,2025-12-23 05:21:17,381.31,INR,UPI,compleeted,Travel,India,udhar@example.org
+TXN045335,CUST02138,2025-08-27 12:15:51,448.3,USD,Credit Card,compleeted,Food,India,lakshit14@example.com
+TXN046065,CUST06985,2025-12-31 22:15:32,743.51,USD,Net Banking,compleeted,Healthcare,USA,aptebishakha@example.com
+TXN046492,CUST09206,2025-07-05 17:58:50,655.09,USD,Credit Card,compleeted,Food,India,nagyvarsha@example.net
+TXN046513,CUST02178,2025-04-29 15:54:05,706.91,INR,Wallet,compleeted,Food,Australia,daniel34@example.com
+TXN047274,CUST02721,2025-06-24 15:05:41,533.67,INR,Credit Card,compleeted,Food,India,akorpal@example.net
+TXN048961,CUST05358,2025-08-27 20:16:19,240.29,INR,Credit Card,compleeted,Electronics,USA,udant14@example.net
+TXN049650,CUST09260,2025-02-07 01:53:07,539.39,INR,UPI,compleeted,Electronics,India,jagatgour@example.org
+TXN049799,CUST01700,2025-09-19 11:55:27,648.16,GBP,Wallet,compleeted,Travel,USA,vchadha@example.com

@@ -1,0 +1,4 @@
+z_threshold,flagged_rows,true_positives,false_positives,false_negatives,precision_percent,recall_percent
+2.5,5258,788,4470,6534,14.99,10.76
+3.0,5258,788,4470,6534,14.99,10.76
+4.0,5258,788,4470,6534,14.99,10.76
