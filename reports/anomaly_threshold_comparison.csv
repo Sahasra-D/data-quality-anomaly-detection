@@ -1,4 +1,7 @@
-z_threshold,flagged_rows,true_positives,false_positives,false_negatives,precision_percent,recall_percent
-2.5,5258,788,4470,6534,14.99,10.76
-3.0,5258,788,4470,6534,14.99,10.76
-4.0,5258,788,4470,6534,14.99,10.76
+z_threshold,method,flagged_rows,true_positives,false_positives,false_negatives,precision_percent,recall_percent
+2.5,z_score_only,10,10,0,115,100.0,8.0
+2.5,combined_rules,210,120,90,5,57.14,96.0
+3.0,z_score_only,10,10,0,115,100.0,8.0
+3.0,combined_rules,210,120,90,5,57.14,96.0
+4.0,z_score_only,10,10,0,115,100.0,8.0
+4.0,combined_rules,210,120,90,5,57.14,96.0

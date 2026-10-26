@@ -2,7 +2,9 @@ ANOMALY DETECTION SUMMARY
 ===================================
 
 Total rows analyzed: 51000
-Rows flagged at threshold 3.0: 5258
+Rows with any ground-truth data-quality issue: 7322
+Rows with anomaly-related ground-truth labels: 125
+Rows flagged by the final detector: 210
 
 FLAGS BY RULE
 z_flag_3_0: 10
@@ -15,7 +17,10 @@ late_night_flag: 2157
 first_transaction_flag: 105
 
 THRESHOLD COMPARISON
- z_threshold  flagged_rows  true_positives  false_positives  false_negatives  precision_percent  recall_percent
-         2.5          5258             788             4470             6534              14.99           10.76
-         3.0          5258             788             4470             6534              14.99           10.76
-         4.0          5258             788             4470             6534              14.99           10.76
+ z_threshold         method  flagged_rows  true_positives  false_positives  false_negatives  precision_percent  recall_percent
+         2.5   z_score_only            10              10                0              115             100.00             8.0
+         2.5 combined_rules           210             120               90                5              57.14            96.0
+         3.0   z_score_only            10              10                0              115             100.00             8.0
+         3.0 combined_rules           210             120               90                5              57.14            96.0
+         4.0   z_score_only            10              10                0              115             100.00             8.0
+         4.0 combined_rules           210             120               90                5              57.14            96.0
