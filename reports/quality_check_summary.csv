@@ -6,7 +6,7 @@ Missing email,Completeness,Low,51000,2043,48957,95.99
 Exact duplicates,Uniqueness,Medium,51000,988,50012,98.06
 Duplicate transaction IDs,Uniqueness,High,51000,1000,50000,98.04
 Non-positive amount,Validity,High,51000,100,50900,99.8
-Future transaction dates,Validity,Medium,51000,100,50900,99.8
+Future transaction dates,Validity,Medium,51000,95,50905,99.81
 Invalid email format,Validity,Low,51000,2143,48857,95.8
 Invalid currency,Validity,Medium,51000,100,50900,99.8
 Invalid payment method,Validity,Medium,51000,0,51000,100.0

@@ -1,7 +1,5 @@
 transaction_id,customer_id,transaction_date,amount,currency,payment_method,status,merchant_category,country,email
 TXN000454,,2026-11-20,,INR,Net Banking,completed,Retail,India,ttara@example.com
-TXN000558,CUST08751,2026-10-25,413.94,INR,Credit Card,completed,Electronics,India,krishna99@example.org
-TXN000892,CUST07100,2026-10-25,1408.72,INR,Wallet,completed,Electronics,India,vamakshiparmer@example.net
 TXN000973,CUST04773,2026-12-13,287.92,INR,Credit Card,completed,Food,Canada,hritik60@example.net
 TXN001476,CUST03021,2026-11-06,445.72,INR,Net Banking,completed,Retail,India,hmutti@example.net
 TXN001793,CUST03439,2026-12-12,,USD,Debit Card,completed,Food,Canada,leelasampath@example.net
@@ -10,8 +8,6 @@ TXN004298,CUST07701,2026-11-23,1950.21,INR,Net Banking,failed,Food,India,harshra
 TXN004628,CUST01808,2026-10-30,569.25,INR,Credit Card,completed,Retail,India,fkhosla@example.org
 TXN004986,CUST00510,2027-01-07,1530.27,EUR,Wallet,refunded,Healthcare,Australia,ybose@example.org
 TXN005708,,2027-01-21,318.52,INR,Credit Card,completed,Healthcare,India,anirudh14@example.com
-TXN005886,CUST08149,2026-10-25,300.81,INR,Credit Card,completed,Travel,India,gautamsampath@example.com
-TXN005924,CUST09698,2026-10-27,257.75,GBP,Net Banking,completed,Retail,USA,aggarwalmaya@example.com
 TXN007328,CUST06795,2026-11-18,385.05,INR,Credit Card,failed,Food,India,xaviernaidu@example.net
 TXN007559,CUST01046,2026-11-09,371.07,INR,Debit Card,completed,Electronics,India,
 TXN008400,CUST01024,2026-11-21,419.24,INR,Net Banking,completed,Food,India,watika02@example.com
@@ -79,7 +75,6 @@ TXN036515,CUST02550,2026-11-07,524.56,GBP,UPI,pending,Travel,Canada,chandreshvar
 TXN036926,CUST03013,2026-11-08,194.65,INR,Wallet,completed,Electronics,India,deepashukla@example.org
 TXN036960,,2026-12-24,435.91,INR,Credit Card,completed,Travel,India,baliikbal@example.org
 TXN038795,CUST00229,2026-11-23,2744.67,INR,Credit Card,completed,Travel,India,zansikibe@example.com
-TXN040951,CUST09840,2026-10-26,415.02,INR,Debit Card,completed,Travel,India,balaykrishna@example.com
 TXN041327,CUST09799,2026-10-28,742.51,USD,UPI,completed,Healthcare,India,gauribalakrishnan@example.com
 TXN041610,CUST02011,2027-01-19,799.57,INR,Net Banking,completed,Healthcare,USA,zghosh@example.net
 TXN042193,,2026-12-17,161.18,INR,Debit Card,completed,Travel,USA,xbora@example.com

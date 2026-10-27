@@ -4,7 +4,7 @@
 
 - **Rows scanned:** 51,000
 - **Transaction date range:** 2025-01-01 to 2027-01-22
-- **Report generation time:** 7.01 seconds
+- **Report generation time:** 9.10 seconds
 
 ## 2. Overall Data Quality
 
@@ -18,7 +18,7 @@ Note: the score reflects the stated calculation basis, not necessarily every qua
 ## 3. Results by Dimension
 
 - **Completeness:** 6,123 failed check rows
-- **Validity:** 2,543 failed check rows
+- **Validity:** 2,538 failed check rows
 - **Uniqueness:** 1,988 failed check rows
 
 The counts above are summed across checks. A single transaction may fail multiple checks.
@@ -33,9 +33,9 @@ The counts above are summed across checks. A single transaction may fail multipl
 - **Missing transaction ID** — High severity; 0 failed rows (0.00%).
 - **Missing customer ID** — Medium severity; 1,535 failed rows (3.01%).
 - **Exact duplicates** — Medium severity; 988 failed rows (1.94%).
-- **Future transaction dates** — Medium severity; 100 failed rows (0.20%).
 - **Invalid currency** — Medium severity; 100 failed rows (0.20%).
 - **Invalid status** — Medium severity; 100 failed rows (0.20%).
+- **Future transaction dates** — Medium severity; 95 failed rows (0.19%).
 - **Invalid payment method** — Medium severity; 0 failed rows (0.00%).
 
 ## 5. Anomaly Highlights
